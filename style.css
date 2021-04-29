@@ -1,0 +1,67 @@
+body{
+    text-align:center;
+    background-image:linear-gradient(180deg,aqua,red)
+}
+#ttracketimage{
+    width:200pxpx;
+    height:200px;
+    border-radius:15%;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin:25px auto;
+}
+h1{
+    text-shadow:4px 4px darkorange;
+    color:aquamarine;
+}
+p{
+    font-size:25px;
+    font-family:cursive;
+}
+
+.menu{
+    list-style:none;
+    font-family:cursive;
+    float:center;
+    cursor:hand;
+}
+.link{
+    display:inline;
+}
+#Name_of_my_Hobby{
+    font-family: 'Dosis', sans-serif;    
+}
+.link:hover{
+    background-color:red;
+}
+html{
+    scroll-behavior:smooth;
+}
+.image{
+    transition: transform .2s    
+}
+.image:hover{
+    transform:scale(1.033)
+}
+#T.T{
+    Background-color:rgb(127, 255, 212);
+}
+#videoofttplayer{
+    Background-color:rgb(220,20,60);
+}
+#DTT{
+     Background-color:rgb(255,140,0);
+}
+#contact{
+    Background-color:rgb(255,140,0);
+}
+
+#contact iframe{
+    width:100%;
+}
+.contact_1 a{
+ color: white;    
+}
